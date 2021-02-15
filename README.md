@@ -59,7 +59,7 @@ After replacing the value '-unknown-' in feature `gender` with nan there are 4 f
 Many users have missing gender info, and there are more female users than male.  It also appears that the overall distribution of gender in the train user data does not replicate precisely for each country, so it could be useful in our predictions.
 
 
-![png]()
+![png](https://github.com/DanielWeller/Airbnb/blob/main/data/1.png)
 
 
 ### Age
@@ -72,7 +72,7 @@ In the below chart there is a modal peak in the 30-35 bucket, with a large propo
     values above 1900: 779
 
 
-![png]()
+![png](https://github.com/DanielWeller/Airbnb/blob/main/data/2.png)
 
 
 ### Age Gender Buckets csv file
